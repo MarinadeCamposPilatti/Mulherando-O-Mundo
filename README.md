@@ -1,2 +1,2 @@
 # Mulherando O Mundo
-Desenvolvendo a página da organização Mulherando O Mundo com React.js, CssTailwind, JavaScript, HTML, Vite
+Projeto voluntário de desenvolvimento de uma página da organização de empoderamento femininino Mulherando O Mundo com React.js, CssTailwind, JavaScript, HTML, Vite.
